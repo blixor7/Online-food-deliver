@@ -16,7 +16,7 @@ const Left = () => {
       </div>
       <p className="text-[2rem] lg:text-[4rem] font-bold tracking-wide text-headingColor">
         The Fastest Food Delivery in
-        <span className="text-orange-600 text-[2.5rem] lg:text-[4.6rem]"> Accra</span>
+        <span className="text-orange-600 text-[2.5rem] lg:text-[4.6rem]"> Toronto </span>
       </p>
       <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus nam
