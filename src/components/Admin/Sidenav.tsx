@@ -44,7 +44,7 @@ const SidenavHeader = () => {
       >
         <img src={Logo} alt="Logo" className="w-10 h-10" />
         <p className="text-xl font-bold pl-1 no-underline text-orange-50 hover:text-orange-100">
-          Bentilzone
+          Texora
         </p>
       </Link>
     </motion.div>

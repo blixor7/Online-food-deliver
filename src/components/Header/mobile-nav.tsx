@@ -87,7 +87,7 @@ const MobileNav = ({
           className="flex items-center gap-2 cursor-pointer"
         >
           <img src={Logo} alt="Logo" className="w-16 object-cover" />
-          <p className="text-headingColor text-3xl font-bold">Bentilzone</p>
+          <p className="text-headingColor text-3xl font-bold">Texora</p>
         </motion.div>
       </Link>
     </div>

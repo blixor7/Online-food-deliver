@@ -1,4 +1,4 @@
-# Bentilzone Online Restaurant App
+# Texora Online Restaurant App
 
 ## STACK USED
 - ReactJS (Typescript)

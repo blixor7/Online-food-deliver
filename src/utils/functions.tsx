@@ -181,7 +181,7 @@ export const calculateCartTotal = (
   let total = 0;
   cartItems.forEach((item: cartItem) => {
     const foodItem = getFoodyById(foodItems, item.fid);
-    total += item.qty * parseFloat(foodItem?.price || "0");
+    total += item.qty * parseFloat(String(foodItem?.price) || "0");
   });
   dispatch({
     type: "SET_CART_TOTAL",
@@ -288,7 +288,7 @@ export const ToggleAdminMode = (dispatch: any, state: boolean) => {
 };
 
 export const isAdmin = (user: any) => {
-  let isAdmin =user?.email == "bentilshadrack72@gmail.com" || user?.email == "admin@test.com"
+  let isAdmin =user?.email == "ultantaylor@gmail.com" || user?.email == "admin@test.com"
   return isAdmin
 };
 

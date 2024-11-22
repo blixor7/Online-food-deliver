@@ -29,7 +29,7 @@ const Header = () => {
           >
             <img src={Logo} alt="Logo" className="md:w-6 lg:w-8 object-cover" />
             <p className="text-headingColor md:text-lg lg:text-xl font-bold">
-              Bentilzone
+              Texora
             </p>
           </motion.div>
         </Link>
@@ -86,7 +86,7 @@ const Header = () => {
               >
                 <img src={Logo} alt="Logo" className="w-8 object-cover" />
                 <p className="text-headingColor text-xl font-bold">
-                  Bentilzone
+                  Texora
                 </p>
               </motion.div>
             </Link>
