@@ -349,6 +349,106 @@ export const foodItemData =
       "imageURL": "/img/i2.png",
       "calories": 180,
       "qty": 20
+    },
+    {
+      "id": 36,
+      "title": "Spicy Lamb Curry",
+      "description": "spicy lamb curry",
+      "price": 15.00,
+      "category": "curry",
+      "imageURL": "/img/cu5.png",
+      "calories": 350,
+      "qty": 10
+    },
+    {
+      "id": 37,
+      "title": "Thai Red Curry",
+      "description": "Thai red curry",
+      "price": 14.00,
+      "category": "curry",
+      "imageURL": "/img/cu6.png",
+      "calories": 300,
+      "qty": 15
+    },
+    {
+      "id": 38,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "fish",
+      "imageURL": "/img/fi2.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 39,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "curry",
+      "imageURL": "/img/c2.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 40,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "fish",
+      "imageURL": "/img/fi3.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 41,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "fish",
+      "imageURL": "/img/fi4.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 42,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "fish",
+      "imageURL": "/img/fi5.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 43,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "icecreams",
+      "imageURL": "/img/i3.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 44,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "icecreams",
+      "imageURL": "/img/i6.png",
+      "calories": 250,
+      "qty": 8
+    },
+    {
+      "id": 45,
+      "title": "Grilled Tilapia",
+      "description": "grilled tilapia",
+      "price": 12.00,
+      "category": "rice",
+      "imageURL": "/img/r5.png",
+      "calories": 250,
+      "qty": 8
     }
 ]
   
